@@ -1,7 +1,7 @@
 Hello There! 👋
 
-I am Devashish, I am a data enthusiast and an aspiring Data Analyst. I currently work with Excel, SQL and Tableau. 
+I am Devashish, I am a backend developer and data enthusiast. I work with Python, Django, RESTAPIs,SQL, and more.
 
 1) Looking to collaborate with people with similar interests on data.
 2) LinkedIn here - https://www.linkedin.com/in/devashish-bhuwanj/
-3) Tableau Profile here - https://public.tableau.com/app/profile/devashish3530
+
